@@ -1,8 +1,5 @@
-# Ball Up
+# [Ball Up](https://terrybrash.itch.io/ballup)
 [![Gameplay](gameplay.gif)](https://www.youtube.com/watch?v=B_lGbDb7apM)
-
-- [Play Ball-Up](https://terrybrash.itch.io/ballup)
-- [Watch the gameplay trailer](https://www.youtube.com/watch?v=B_lGbDb7apM)
 
 2-player Co-Op action game about popping balls! Pop the balls matching your color and keep your friend alive through 10 levels of increasingly insane patterns of balls.
 
